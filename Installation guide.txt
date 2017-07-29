@@ -1,0 +1,22 @@
+Welcome to Optimum Linkup Computer Institute.
+
+Insallation guide:
+
+extract the downloaded folder,
+go to database
+open the sql file and set it up in local server
+go to application
+click on config folder
+open database.php
+change the settings to your own database settings
+
+
+for server intallation
+extract the folder to your root directory
+set up the datbase 
+import the database to your server
+go to application
+click on config folder
+open database.php
+change the settings to your own database settings
+

@@ -1,0 +1,147 @@
+Thanks for downloading this software!
+Please dont forget to like us on www.facebook.com/optimumlinkup
+
+for UPDATED school management system visit : www.optimumlinkup.com.ng/upload/index.php
+the username : admin
+the password : admin
+
+
+for Point on Sale system visit: www.optimumlinkup.com.ng/pos/index.php
+username for pos is admin
+password  is password
+
+for hospital management system visit: www.optimumlinkup.com.ng/hms/index.php
+the username : admin@admin.com
+the password : admin
+
+
+for school management system visit : www.optimumlinkup.com.ng/software/index.php
+the username : admin@admin.com
+the password : admin
+
+
+watsapp number: +2348033527716
+email: segtism@gmail.com
+facebook account: www.facebook.com/optimumlinkup
+
+
+PAYMENT OPTION
+We accept western union for now, pls bear with us
+Western Union details:
+Name: Olawuyi Segun
+Country: Nigeria
+State: Ogun state
+City: Abeokuta
+Zip code: 23439
+Test question: what is your favourite colour?
+Answer: blue
+Phone number: +2348033527716
+THE SEND US THE SNAP PICTURE OF THE RECIEPT ON OUR WATSAPP NO: +23433527716 AND YOUR EMAIL AND IN LESS THAN 3 MINUTES YOU WILL GET IT IN YOUR MAIL AND THE LINK TO ALSO DOWNLOAD. 
+
+PLS NOTE THAT THE FULL SOURCE CODE COST 50USD FOR EACH SOFTWARE COST JUST 60USD (FOR UPDATED SCHOOL MANAGEMENT SYSTEM)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+
+This is open source and free taxi management system. Online Taxi Booking System specializing in Hiring Taxis to customers. It is an online system through which customers can view available Taxis; register the Taxis, view profile and book Taxis. Taxi booking service is a major transport service provided
+by the various transport operators in a particular city. Mostly peoples use Taxi service for their daily transportation need. 
+
+DEMO: http://optimumlinkup.com.ng/DOVBS-V2/en/auth for admin login Userman: admin@admin.com and password: admin123
+
+For more information contact us: segtism@gmail.com or watsapp number: +2348033527716 and dont forget to like us on www.facebook.com/optimumlinkup
+DEMO: for pos visit: www.optimumlinkup.com.ng/pos/index.php -- user:admin, pass: password
+DEMO: for school management system visit: www.optimumlinkup.com.ng/software/index.php -- user: admin@admin.com , pass: admin
+DEMO: for inventory management system visit: www.optimumlinkup.com.ng/php_stock/index.php -- user: admin , pass: master
+DEMO: for hospital management system visit: www.optimumlinkup.com.ng/hms/index.php -- user: admin@admin.com , pass: admin
+
+FEATURES OF THE SOFTWARE
+    Categorize Vehicles. Easily Add Categories for different kinds of Vehicles, no more confusion, it’s done for you.
+    Add/Delete Vehicle Features. You can add the features for vehicles, and also you can edit or delete them, things made simple for you.
+    Add/Delete vehicle with available features. Easily the vehicles with all pre defined parameters to work perfectly on your booking site, you can edit or delete them at any time.
+    Day/Night Time Settings. Want to set Time for day and night bookings? Yes, you can do that simply in vehicle Time settings.
+    Day/Night cost settings for each individual vehicle. Want to set cost for day and night bookings? Yes, you can do that simply in vehicle Cost settings.
+    Add Booking. Not only front end booking, now admin also able to do booking at back end, it simple and reliable also.
+    Current Day Bookings. You can easily list out all current day bookings, so that it made simple to run your vehicles.
+    Overall Bookings. You can able to see the overall booking at single click at admin dashboard. Simple procedure to check all your bookings.
+    Bookings can be handled by just one click (Confirmation/Cancellation). You can either confirm the booking or Cancel the booking, it’s your system, you can control like a boss.
+    Notifications for unread/new Bookings. You will be notifying for the new bookings, or unread bookings at admin dashboard, so that you cannot miss any booking.
+    Add/Delete packages. You can now easily setup packages and edit, lo, you can delete them also.
+    Add/Delete Airports. Easily manage your Airports under Airports module, useful for airport bookings.
+    Search Bookings for Customer Query Management. You can search bookings made by customers.
+    Chart Reports for Business Status. Simple and Elegant chart representation for important operations.
+    Add/Delete/Block Executives/Telecallers. Easily manage your executives, Telecallers , so you can prevent spam loss.
+    Add/Delete/Block Users. Manage your users time to time, so that your system is in right on the top.
+    . Multi Theme User Interface. We have done two color schemes, chose one and get ready to launch your booking portal.
+    Support for Currency Settings. You can simply manage currency at settings.
+    . Google Locations for Selected Country. You can get results from Google Locations, but you need to set you country first.
+    Dynamic Front End Pages*. Create unlimited pages, and note that the root menu won’t work, you can add child pages to root menu.
+    Profile Settings. Admin easily able to change his profile settings.
+    Testimonial Settings. Manage the testimonials and its settings easily
+    Social Network Settings. Add your social network pages links; you can change/ delete them at any time. Grow socially catch socially.
+    Email Settings. Set your SMTP settings, or Mandrill Settings to work emails properly
+    PayPal Settings. Add your PayPal id and start earning, you can choose live / test account before going to live.
+    Waiting Time Settings. Add waiting time, for bookings, so that user can choose the waiting time, for booking.
+    FAQ’S Manage FAQs, so that users won’t make nonsense, it makes things simple on what we’re providing to our users.
+    Multi Language Support. You can add language simply, kindly remember you’ve to translating the string before adding new language, at some point, may be you will face validation issues, contact us we will solve right away.
+    Cab Booking System – Executive Features: 
+1. Add Bookings. Executive easily add booking from his separated dashboard, more users , less work 
+2. Bookings can be handled by just one click (Confirmation/Cancellation) Yes, you can either cancel or approve the booking; it’s all up to you. 
+3. Current day bookings. Executive easily check the current day bookings list, so the he can manage his vehicles. 
+4. Search bookings. Now search your bookings from list of all bookings. 
+5. Overall bookings. Check overall bookings at single time.
+ 6. Notifications for unread/new bookings. Executive easily able to check the notifications of bookings right on his dashboard 
+7. Multi language support. It will support, and any issues, we’re here to help you. Cab Booking System – User Features: 
+1. User friendly Interface Carefully crafted the design , that’s what concentrate on work only. 
+2. Simple registration, login process. User’s registration is simple and reliable. 3. 3 step booking process. Simple booking process in 
+3 steps to avoid boring and traditional booking processes. 
+4. Google map locations. On type letter of location, all locations will fetch by Google, it’s so pretty simple and nice. 
+5. Route map, distance and cost calculations for given source and destination. User will able to see the route on the map, which connects the source and destinations 
+6. Waiting time option for return journey. User can select the waiting time while booking, makes simple for admin to understand before the vehicle dispatch. 
+7. Bookings History. User can able to see his booking history, so that he will feel good. 
+8. Email support for booking status. Email alert will send by admin on approval of booking, or status 
+9. Profile settings User easily manages his profile without any hassle 
+10. Multi language support. Be it in your own languages, any language issues? Report us we will solve.
+
+
+
+
+
+
+
+
+
+
+
+
+
